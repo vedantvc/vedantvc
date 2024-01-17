@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vedant Chidgopkar</h1>
 <div align="center"><img src = "Vedant.png"></div>
+<h1 align="center">Hi 👋, I'm Vedant Chidgopkar</h1>
 <h3 align="center">"Passionate Software Developer | Building Tomorrow's Technology Today 🌐🚀"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantvc&label=Profile%20views&color=0e75b6&style=flat" alt="vedantvc" /> </p>
