@@ -1,4 +1,4 @@
-<div align="center"><img src = "Vedant.png"></div>
+<div align="center"><img src = "Vedant Banner.png"></div>
 <h1 align="center">Hi 👋, I'm Vedant Chidgopkar</h1>
 <h3 align="center">"Passionate Software Developer | Building Tomorrow's Technology Today 🌐🚀"</h3>
 
