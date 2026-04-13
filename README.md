@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **"At the moment, I'm deeply engrossed in 30 Days JavaScript Challenge."**
 
-- 👯 I’m looking to collaborate on **"I'm looking to collaborate on innovative projects that blend technology and creativity."**
+- 👯 I’m looking to collaborate on **"innovative projects that blend technology and creativity."**
 
 - 💬 Ask me about **Java, JavaScript, and Spring**
 
