@@ -1,27 +1,52 @@
-<div align="center"><img src = "Vedant Banner.png"></div>
-<h1 align="center">Hi 👋, I'm Vedant Chidgopkar</h1>
-<h3 align="center">"Passionate Software Developer | Building Tomorrow's Technology Today 🌐🚀"</h3>
+<h1 align="center">Hi, I'm Vedant Chidgopkar</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantvc&label=Profile%20views&color=0e75b6&style=flat" alt="vedantvc" /> </p>
-
-- 🔭 I’m currently working on **"At the moment, I'm deeply engrossed in 30 Days JavaScript Challenge."**
-
-- 👯 I’m looking to collaborate on **"innovative projects that blend technology and creativity."**
-
-- 💬 Ask me about **Java, JavaScript, and Spring**
-
-- 📫 How to reach me **vedantvchidgopkar@gmail.com**
-
-- ⚡ Fun fact **I have a 'code and cuisine' hobby—experimenting with new recipes while optimizing algorithms. The kitchen is my second favorite place to code! 🍳💻 "**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vedant-chidgopkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant-chidgopkar" height="30" width="40" /></a>
+<p align="center">
+Backend-focused Software Engineer building reliable APIs, distributed systems, and applied AI tools.
+<p align="center">
+  <a href="https://www.vedantchidgopkar.com/"><img alt="Website" src="https://skillicons.dev/icons?i=vercel&theme=dark" height="28" /></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/vedant-chidgopkar"><img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="28" /></a>&nbsp;&nbsp;
+  <a href="mailto:vedantvchidgopkar@gmail.com"><img alt="Email" src="https://skillicons.dev/icons?i=gmail&theme=dark" height="28" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/vedantvc"><img alt="GitHub" src="https://skillicons.dev/icons?i=github&theme=dark" height="28" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedantvc&show_icons=true&locale=en&layout=compact" alt="vedantvc" /></p>
+## About
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantvc&" alt="vedantvc" /></p>
+I'm a Software Engineer with 4+ years of experience building backend and full-stack systems across fintech, SaaS, and enterprise platforms.
+
+My work focuses on Java/Spring Boot services, REST APIs, distributed systems, payment workflows, database design, and cloud-based deployments. I also work with AI engineering concepts including RAG, LLM agents, vector search, and workflow automation.
+
+I care about building systems that are reliable, observable, scalable, and easy to maintain.
+
+## What I'm Working On
+
+- Backend systems with Java, Spring Boot, SQL, and event-driven architecture
+- AI engineering projects using RAG, agents, structured outputs, and vector databases
+- System design, clean architecture, and production-readiness tooling
+- Building projects that connect practical engineering with applied AI
+
+## Tech Stack
+
+#### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js&theme=dark" alt="Languages" />
+</p>
+
+#### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,graphql&theme=dark" alt="Backend" />
+</p>
+
+#### Databases
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="32" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="32" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="32" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" height="32" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" height="32" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" height="32" /></p>
+
+#### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,githubactions&theme=dark" alt="Cloud and DevOps" />
+</p>
+
+#### AI Engineering
+<p><img src="https://cdn.simpleicons.org/anthropic/D97757/D97757?viewbox=auto" alt="Anthropic" height="30" /> <img src="https://cdn.simpleicons.org/langchain/00A67E/00A67E?viewbox=auto" alt="LangChain" height="30" /> <img src="https://cdn.simpleicons.org/modelcontextprotocol/7C3AED/7C3AED?viewbox=auto" alt="Model Context Protocol" height="30" /> <img src="https://cdn.simpleicons.org/qdrant/DC244C/DC244C?viewbox=auto" alt="Qdrant" height="30" /></p>
+
+#### Tools
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="32" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" height="32" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="32" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" height="32" /> <img src="https://cdn.simpleicons.org/datadog/632CA6/632CA6?viewbox=auto" alt="Datadog" height="28" /> <img src="https://cdn.simpleicons.org/splunk/65A637/65A637?viewbox=auto" alt="Splunk" height="28" /></p>
